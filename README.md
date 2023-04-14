@@ -8,7 +8,7 @@ I've been working with development for 5 year. Always with PHP and keeptriyng to
 
 * 🌍  I'm based in Santa Cruz do Sul, Brasil
 * ✉️  You can contact me at [lsteil@inf.ufsm.br](mailto:lsteil@inf.ufsm.br)
-* 🧠  I'm learning in this moment, I'm improving my knowledge in Software Architecture, studying Hexagonal Architecture, Clean Archtecture and Domain Drive Design.
+* 🧠 I'm improving my knowledge in Software Architecture, studying Hexagonal Architecture, Clean Archtecture and Domain Drive Design.
 
 ### Skills
 
