@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Software Developer
 --------------------------
 
-I've been working with development for 5 year. Always with PHP and keeptriyng to improve my knowledge about writing a good code.
+I've been working with development for 5 year. Always with PHP and keep triyng to improve my knowledge about writing a good code.
 
 * 🌍  I'm based in Santa Cruz do Sul, Brasil
-* ✉️  You can contact me at [lsteil@inf.ufsm.br](mailto:lsteil@inf.ufsm.br)
-* 🧠 I'm improving my knowledge in Software Architecture, studying Hexagonal Architecture, Clean Archtecture and Domain Drive Design.
+* ✉️   You can contact me at [lsteil@inf.ufsm.br](mailto:lsteil@inf.ufsm.br)
+* 🧠  I'm improving my knowledge in Software Architecture, studying Hexagonal Architecture, Clean Archtecture and Domain Drive Design.
 
 ### Skills
 
